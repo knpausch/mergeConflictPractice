@@ -1,1 +1,3 @@
-# mergeConflictPractice # Hello I am here
+
+# mergeConflictPractice this is tim's edit 
+
